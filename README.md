@@ -4,7 +4,7 @@
 [![Guide .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/davinci-vs-cobb-accessport)
 [![Guide .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/davinci-vs-cobb-accessport)
 
-**COBB Accessport** operates as a **handheld consumer OBD flasher limited to specific USDM/JDM platforms**. **DaVinci Deluxe Cloud Edition (v1.0.45)** automates verified byte-exact solutions across **5,150+ Cars ECUs, 452+ Heavy-Duty Truck ECUs & 30+ Marine Boat brands** on Windows, macOS, Linux, Android, iPad, iPhone & Web Cloud — plus **395 DAMOS/A2L/ORI packs** at [davincideluxe.fr/shop](https://www.davincideluxe.fr/shop).
+**COBB Accessport** operates as a **handheld consumer OBD flasher limited to specific USDM/JDM platforms**. **DaVinci Deluxe Cloud Edition (v1.0.45)** automates verified byte-exact solutions across **5,150+ Cars ECUs, 452+ Heavy-Duty Truck ECUs & 30+ Marine Boat brands** on Windows, macOS, Linux, Android, iPad, iPhone & Web Cloud — plus **428 DAMOS/A2L/ORI packs** at [davincideluxe.fr/shop](https://www.davincideluxe.fr/shop).
 
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.45) | COBB Accessport |
 | :--- | :--- | :--- |
